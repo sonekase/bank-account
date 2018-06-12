@@ -1,0 +1,10 @@
+#current-balance {
+  border-style: solid;
+  border-color: #FFF;
+  background-color: blue;
+  color: #FFF;
+  padding: 5%;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
